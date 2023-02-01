@@ -1,16 +1,14 @@
 # skincare_ui
 
-A new Flutter project.
+## This is a demo of a skin care app concept
 
-## Getting Started
+![alt text](https://cdn.dribbble.com/userupload/4281788/file/original-be4df4ee84f1d0740a52969632b44078.png?compress=1&resize=1024x768&vertical=center)
 
-This project is a starting point for a Flutter application.
+![alt text](https://cdn.dribbble.com/userupload/4281787/file/original-a4748ffc5416e419fa912b31fb778965.png?compress=1&resize=752x)
+![alt text](https://cdn.dribbble.com/userupload/4281784/file/original-40bd1a4f324cace769c468c2e3e353db.mp4)
 
-A few resources to get you started if this is your first Flutter project:
+Project is not complete and has a few missing screens will update later.
+[Link](https://dribbble.com/shots/20382079-Skincare-Mobile-IOS-App) to the design.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I do not own or clain to own the design. The design is 100% owned by the designer
+for any enquires please contact the designer. Once again [Link](https://dribbble.com/shots/20382079-Skincare-Mobile-IOS-App) to the design.
