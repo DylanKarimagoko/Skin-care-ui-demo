@@ -1,11 +1,13 @@
 # skincare_ui
 
 ## This is a demo of a skin care app concept
+<video src="https://cdn.dribbble.com/userupload/4281784/file/original-40bd1a4f324cace769c468c2e3e353db.mp4"></video>
 
 ![alt text](https://cdn.dribbble.com/userupload/4281788/file/original-be4df4ee84f1d0740a52969632b44078.png?compress=1&resize=1024x768&vertical=center)
 
 ![alt text](https://cdn.dribbble.com/userupload/4281787/file/original-a4748ffc5416e419fa912b31fb778965.png?compress=1&resize=752x)
-![alt text](https://cdn.dribbble.com/userupload/4281784/file/original-40bd1a4f324cace769c468c2e3e353db.mp4)
+
+
 
 Project is not complete and has a few missing screens will update later.
 [Link](https://dribbble.com/shots/20382079-Skincare-Mobile-IOS-App) to the design.
